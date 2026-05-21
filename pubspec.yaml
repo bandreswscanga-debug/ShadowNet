@@ -2,6 +2,7 @@ name: shadownet
 description: A new Flutter project called ShadowNet
 publish_to: 'none'
 version: 0.1.0+1
+
 environment:
   sdk: '>=2.18.0 <4.0.0'
   flutter: '>=3.0.0'
@@ -11,6 +12,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.2
+  google_fonts: ^6.1.0
 
 dev_dependencies:
   flutter_test:
