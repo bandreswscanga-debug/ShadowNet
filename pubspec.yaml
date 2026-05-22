@@ -9,6 +9,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  geolocator: ^10.1.0
+  local_auth: ^2.1.8
+  vibration: ^1.8.4
 
   cupertino_icons: ^1.0.2
 
